@@ -1,4 +1,4 @@
-whislist_gunung = ["rinjani", "merbabu", "prau", "gede", "pangrango", "lawu", "ciremai", "sindoro", "sumbing"]
+whislist_gunung = ["rinjani", "merbabu", "prau", "gede", "pangrango", "lawu", "ciremai", "sindoro", "jaya wijaya", "krinci", "raung", "slamet", "merapi", "papandayan", "patuha", "sunan ibu", "sumbing"]
 
 
 i = 0
