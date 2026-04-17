@@ -9,4 +9,13 @@ while i < len(whislist_gunung):
         break
     print(whislist_gunung[i])
     i+=1
+
+
+for i in range(20):
+    if (i==0 or i%3 !=0):
+        continue
+    print(i, end=" ")
+
+
+
     
