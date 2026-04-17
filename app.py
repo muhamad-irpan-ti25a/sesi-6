@@ -11,3 +11,4 @@ gunung = {"merbabu", "rinjani", "gede", "pangrango", "lawu", 'sindoro'}
 
 for i, nama in enumerate(gunung):
     print(f"{i+1}. {nama}")
+
