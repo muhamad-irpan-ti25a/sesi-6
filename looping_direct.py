@@ -12,7 +12,13 @@
 #        continue
 #    print(i, end=" ")
 
-for i in range(7, -1, -1):
-    if i in [6,2,0]:
-        continue
-    print(i, end=" ")
+#for i in range(7, -1, -1):
+#    if i in [6,2,0]:
+#       continue
+#   print(i, end=" ")
+
+
+#for i in range(7, -1, -1):
+#    if (i%2 == 0 and i !=4):
+#       continue
+#    print(i, end=" ")
